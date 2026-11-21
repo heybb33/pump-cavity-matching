@@ -3,7 +3,7 @@
 
 **Version 1.0 · October 2026**
 
-This folder contains a self-contained, offline interactive 3D visualization that accompanies the manuscript. It is intended to make the geometric relationships in the paper inspectable, not to provide a quantitative laser-oscillation simulation.
+This folder contains a self-contained, offline interactive 3D visualization . It is intended to make the geometric relationships in the paper inspectable, not to provide a quantitative laser-oscillation simulation.
 
 ---
 
