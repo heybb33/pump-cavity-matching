@@ -24,7 +24,7 @@ The page opens in the **author default view** captured from the locally saved se
 
 ---
 
-## 2. Quick start for reviewers
+## 2. Quick start 
 
 1. Unzip the supplement (if it arrived as a ZIP).
 2. Open `interactive/index.html` by double-clicking it.
